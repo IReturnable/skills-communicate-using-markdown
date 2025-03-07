@@ -10,3 +10,6 @@ Here's a picture
 ``` Csharp
 var Hello = "World!";
 ```
+
+- [x] Step A
+- [ ] Step B
